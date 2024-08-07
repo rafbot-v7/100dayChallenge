@@ -1,5 +1,5 @@
 import  java.util.*;
-class moachasAlienDictionary{
+class mochasAlienDictionary{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
